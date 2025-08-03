@@ -34,10 +34,6 @@ How to Run
 
 Ensure Python is installed and dependencies are met.
 
-Install dependencies
-```bash
-pip install matplotlib numpy
-
 
 Part 2: Elementary Data Structures: Implementation and Analysis
 
