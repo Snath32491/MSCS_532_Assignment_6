@@ -38,6 +38,7 @@ Install dependencies
 ```bash
 pip install matplotlib numpy
 
+
 Part 2: Elementary Data Structures: Implementation and Analysis
 
 This project contains Python implementations and a detailed analysis of fundamental data structures, including:
